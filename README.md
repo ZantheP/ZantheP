@@ -3,7 +3,7 @@
 <pre>
     💻 Frontend Development
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Code • Hiking
+    🎮 Music • Games • Coding • Hiking
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
