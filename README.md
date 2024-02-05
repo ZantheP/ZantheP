@@ -1,7 +1,7 @@
 <div align="center">
 <br><br>
 <pre>
-    💻 Frontend Development
+    💻 Aspiring software engineer
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Coding • Hiking
 </pre>
