@@ -1,8 +1,6 @@
 <div align="center">
 <br><br>
 <pre>
-    💻 Aspiring software engineer
-    📖 Software architecture • Distributed systems
     🎮 Music • Video Games • Coding • Hiking
 </pre>
 <br><br>
